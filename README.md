@@ -1,7 +1,12 @@
-### Hi there 👋
-- 👯 I am interested in turning data actionable insights.
-- 🤔 I’m looking to learn more about AI, MLOps, Data-driven decision making. 
-- 💬 Ask me about Code, AI, Sustainability and Startup.
-- 📫 How to reach me: https://www.linkedin.com/in/joeltiogo
-- 😄 Pronouns: Jo-el
-- ⚡ Fun fact: I am chess enthousiast and like to play football and most importantly reading is something I enjoy.
+#Hello World! 🌍
+🔍 Data Alchemist: Transforming raw data into actionable insights and scalable solutions.
+
+🤖 AI & MLOps Explorer: Continuously learning and experimenting with AI, machine learning operations, and data-driven decision-making frameworks.
+
+💡 Collaborator at Heart: Passionate about open-source projects, innovative startups, and sustainable tech. Let’s build something impactful together!
+
+💬 Let’s Talk: Code, AI, sustainability, or startup ecosystems—I’m always up for a deep dive.
+
+📫 Connect with Me: LinkedIn
+
+♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from sci-fi to tech journals.
