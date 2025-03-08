@@ -8,6 +8,6 @@
 
 💬 Let’s Talk: Code, AI, sustainability, or startup ecosystems—I’m always up for a deep dive.
 
-📫 Connect with Me: LinkedIn
+📫 Connect with Me: LinkedIn - https://linkedin.com/in/joeltiogo
 
 ♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from sci-fi to tech journals.
