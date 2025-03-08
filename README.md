@@ -10,4 +10,4 @@
 
 📫 Connect with Me: LinkedIn - https://linkedin.com/in/joeltiogo
 
-♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from sci-fi to tech journals.
+♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from business, philosophy and economics books and blogs to tech journals.
