@@ -1,12 +1,13 @@
-#Hello World! 🌍
-🔍 Data Alchemist: Transforming raw data into actionable insights and scalable solutions.
+# Hello World! 🌍
 
-🤖 AI & MLOps Explorer: Continuously learning and experimenting with AI, machine learning operations, and data-driven decision-making frameworks.
+## 🔍 Data Alchemist: Transforming raw data into actionable insights and scalable solutions.
 
-💡 Collaborator at Heart: Passionate about open-source projects, innovative startups, and sustainable tech. Let’s build something impactful together!
+## 🤖 AI & MLOps Explorer: Continuously learning and experimenting with AI, machine learning operations, and data-driven decision-making frameworks.
 
-💬 Let’s Talk: Code, AI, sustainability, or startup ecosystems—I’m always up for a deep dive.
+##💡 Collaborator at Heart: Passionate about open-source projects, innovative startups, and sustainable tech. Let’s build something ## impactful together!
 
-📫 Connect with Me: LinkedIn
+## 💬 Let’s Talk: Code, AI, sustainability, or startup ecosystems—I’m always up for a deep dive.
 
-♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from sci-fi to tech journals.
+## 📫 Connect with Me: LinkedIn
+
+##♟️ Fun Fact: Chess strategist by day, football enthusiast by weekend, and an avid reader of everything from sci-fi to tech journals.
